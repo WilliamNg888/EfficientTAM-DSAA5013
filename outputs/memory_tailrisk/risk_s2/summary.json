@@ -1,0 +1,5 @@
+{
+  "num_videos": 30,
+  "score": "mean robust-z(area_risk, iou_risk, frag_risk)",
+  "top_fraction": 0.2
+}

@@ -1,0 +1,6 @@
+{
+  "dataset_root": "/hpc2hdd/home/ywu706/EfficientTAM-main/outputs/segtrack_v2/davis_style",
+  "mean_fps": 2.6010692236815274,
+  "model_preset": "s2",
+  "num_videos": 2
+}

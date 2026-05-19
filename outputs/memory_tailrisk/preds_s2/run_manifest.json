@@ -1,0 +1,6 @@
+{
+  "dataset_root": "/hpc2hdd/home/ywu706/datasets/DAVIS",
+  "mean_fps": 4.0211681940934945,
+  "model_preset": "s2",
+  "num_videos": 30
+}

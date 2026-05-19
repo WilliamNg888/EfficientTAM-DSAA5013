@@ -1,0 +1,6 @@
+{
+  "layout": "DAVIS-style: JPEGImages/480p, Annotations/480p, ImageSets/2017/val.txt",
+  "num_frames": 95,
+  "num_objects": 2,
+  "num_videos": 2
+}

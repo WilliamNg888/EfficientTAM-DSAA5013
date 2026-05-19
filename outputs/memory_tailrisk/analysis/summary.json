@@ -1,0 +1,21 @@
+{
+  "all_s2_jf": 0.9087023535284195,
+  "all_s_jf": 0.9144843048135342,
+  "fallback_budget_videos": 6,
+  "mean_drop": 0.00578195128511451,
+  "median_drop": 0.0014864688881756072,
+  "num_videos": 30,
+  "random_fallback_mean_jf": 0.909894963108319,
+  "random_fallback_std_jf": 0.0010781610126458611,
+  "risk_fallback_mean_jf": 0.9128175440953863,
+  "risk_selected_videos": [
+    "india",
+    "kite-surf",
+    "paragliding-launch",
+    "lab-coat",
+    "shooting",
+    "bmx-trees"
+  ],
+  "spearman_risk_vs_drop": 0.44649610678531704,
+  "top20_worst_video_drop": 0.02627860519761242
+}
