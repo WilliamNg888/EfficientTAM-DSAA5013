@@ -1,0 +1,130 @@
+[
+  {
+    "pair": "efficienttam_s-efficienttam_s_2",
+    "n_videos": 30,
+    "k_rerun": 6,
+    "baseline_eff": 91.10422443794081,
+    "baseline_full": 91.72106209721704,
+    "gap": 0.6168376592762286,
+    "random_mean": 91.23318047081193,
+    "random_std": 0.1163996319669382,
+    "random_recovered": 20.90599218965128,
+    "risk_mean": 91.49756292887231,
+    "risk_recovered": 63.76693851556096,
+    "oracle_mean": 91.67506143376933,
+    "oracle_recovered": 92.54250080942056,
+    "top_risk_set": [
+      "paragliding-launch",
+      "lab-coat",
+      "bmx-trees",
+      "kite-surf",
+      "shooting",
+      "india"
+    ],
+    "oracle_set": [
+      "paragliding-launch",
+      "pigs",
+      "lab-coat",
+      "motocross-jump",
+      "kite-surf",
+      "mbike-trick"
+    ],
+    "overlap_risk_vs_oracle": 50.0
+  },
+  {
+    "pair": "efficienttam_s-efficienttam_s_1",
+    "n_videos": 30,
+    "k_rerun": 6,
+    "baseline_eff": 91.00914108678698,
+    "baseline_full": 91.72106209721704,
+    "gap": 0.7119210104300606,
+    "random_mean": 91.1596068435745,
+    "random_std": 0.16224385663685897,
+    "random_recovered": 21.135175754486767,
+    "risk_mean": 91.38729017086081,
+    "risk_recovered": 53.11671920532191,
+    "oracle_mean": 91.7282836931254,
+    "oracle_recovered": 101.01438162416356,
+    "top_risk_set": [
+      "paragliding-launch",
+      "motocross-jump",
+      "bmx-trees",
+      "kite-surf",
+      "shooting",
+      "india"
+    ],
+    "oracle_set": [
+      "paragliding-launch",
+      "lab-coat",
+      "kite-surf",
+      "mbike-trick",
+      "blackswan",
+      "gold-fish"
+    ],
+    "overlap_risk_vs_oracle": 33.33333333333333
+  },
+  {
+    "pair": "efficienttam_ti-efficienttam_ti_2",
+    "n_videos": 30,
+    "k_rerun": 6,
+    "baseline_eff": 90.50106556223926,
+    "baseline_full": 90.78068924358568,
+    "gap": 0.2796236813464219,
+    "random_mean": 90.5642700615754,
+    "random_std": 0.153141201993646,
+    "random_recovered": 22.60341435739644,
+    "risk_mean": 90.57487245791994,
+    "risk_recovered": 26.39508046145681,
+    "oracle_mean": 91.05689048601326,
+    "oracle_recovered": 198.77605541048342,
+    "top_risk_set": [
+      "paragliding-launch",
+      "motocross-jump",
+      "bmx-trees",
+      "kite-surf",
+      "bike-packing",
+      "india"
+    ],
+    "oracle_set": [
+      "paragliding-launch",
+      "lab-coat",
+      "bike-packing",
+      "blackswan",
+      "scooter-black",
+      "breakdance"
+    ],
+    "overlap_risk_vs_oracle": 33.33333333333333
+  },
+  {
+    "pair": "efficienttam_s-efficienttam_s_512x512",
+    "n_videos": 30,
+    "k_rerun": 6,
+    "baseline_eff": 88.94863061073012,
+    "baseline_full": 91.72106209721704,
+    "gap": 2.772431486486923,
+    "random_mean": 89.51702651910047,
+    "random_std": 0.24472422957064321,
+    "random_recovered": 20.501711625364255,
+    "risk_mean": 89.89242818464584,
+    "risk_recovered": 34.04223254987075,
+    "oracle_mean": 90.556842594037,
+    "oracle_recovered": 58.00727596499466,
+    "top_risk_set": [
+      "paragliding-launch",
+      "motocross-jump",
+      "bmx-trees",
+      "kite-surf",
+      "bike-packing",
+      "india"
+    ],
+    "oracle_set": [
+      "paragliding-launch",
+      "lab-coat",
+      "kite-surf",
+      "mbike-trick",
+      "bike-packing",
+      "cows"
+    ],
+    "overlap_risk_vs_oracle": 50.0
+  }
+]

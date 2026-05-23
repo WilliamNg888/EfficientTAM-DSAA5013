@@ -1,0 +1,44 @@
+{
+  "efficienttam_s": {
+    "n_params": 34055842,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 27.538655003668158,
+    "ms_per_frame": 36.312594056129456
+  },
+  "efficienttam_s_2": {
+    "n_params": 34055842,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 34.6605319272215,
+    "ms_per_frame": 28.851259469985962
+  },
+  "efficienttam_s_1": {
+    "n_params": 34055842,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 34.251665338952805,
+    "ms_per_frame": 29.19566071033478
+  },
+  "efficienttam_ti": {
+    "n_params": 17866018,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 35.905821370947635,
+    "ms_per_frame": 27.850637078285217
+  },
+  "efficienttam_ti_2": {
+    "n_params": 17866018,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 32.353193638141576,
+    "ms_per_frame": 30.908849716186527
+  },
+  "efficienttam_s_512x512": {
+    "n_params": 34055842,
+    "num_frames": 200,
+    "n_runs": 10,
+    "fps": 34.68329142194988,
+    "ms_per_frame": 28.832327008247372
+  }
+}
